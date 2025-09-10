@@ -55,6 +55,15 @@
 
 ---
 
+## 🤣 Termux kid 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Random GIF"/>
+</p>
+
+
+---
+
 <details>
   <summary>📚 My Top Projects</summary>
   <ul>
@@ -68,4 +77,10 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/fulan3/fulan3/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
