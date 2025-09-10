@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/fulan3"><img src="https://img.shields.io/github/followers/fulan3?label=Follow&style=social"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:gapunya@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=fulan3&style=flat-square" alt="profile views"/>
 </p>
 
@@ -21,7 +21,7 @@
   Saya sangat hobi mengemudikan aplikasi Termux, membuat skrip otomatisasi, serta memaksimalkan potensi perangkat Android lewat terminal.  
   - Berpengalaman membuat tools, custom environment, dan workflow produktivitas di Termux  
   - Aktif berbagi trik dan solusi seputar Termux di komunitas
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **fulan03@example.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Ngoding sambil ngopi & eksplorasi CLI di Termux adalah passion saya!**
 
@@ -48,9 +48,9 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/gaada"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/kosongbroo"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.instagram.com/fulan_404?igsh=ZGdrZjN5Y3c4YjE5"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
