@@ -1,8 +1,3 @@
-## hello word
-
-
-<!-- Profil README GitHub - Gaya Keren & Cantik -->
-
 <h1 align="center">Hi there, I'm Fulan! 👋</h1>
 
 <p align="center">
@@ -21,17 +16,22 @@
 
 - 🔭 I’m currently working on: **[My Awesome Project](https://github.com/fulan3/Wordlist)**
 - 🌱 I’m currently learning: **AI, Web Development, and Cloud Computing**
-- 💬 Ask me about: **Anything!**
+- 💬 Ask me about: **Linux, Shell scripting, Termux automation, and CLI tools**
+- 👨‍💻 **Termux Enthusiast & Expert:**  
+  Saya sangat hobi mengemudikan aplikasi Termux, membuat skrip otomatisasi, serta memaksimalkan potensi perangkat Android lewat terminal.  
+  - Berpengalaman membuat tools, custom environment, dan workflow produktivitas di Termux  
+  - Aktif berbagi trik dan solusi seputar Termux di komunitas
 - 📫 How to reach me: **youremail@example.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love coffee and late-night coding!**
+- ⚡ Fun fact: **Ngoding sambil ngopi & eksplorasi CLI di Termux adalah passion saya!**
 
 ---
 
 ## 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,bash,linux,git,github,vscode,android" />
+  <img src="https://img.shields.io/badge/Terminal-Termux-1f425f.svg?logo=gnu-bash&logoColor=white&color=222222&style=flat-square" />
 </p>
 
 ---
