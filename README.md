@@ -1,1 +1,71 @@
 ## hello word
+
+
+<!-- Profil README GitHub - Gaya Keren & Cantik -->
+
+<h1 align="center">Hi there, I'm Fulan! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7A4B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/fulan3"><img src="https://img.shields.io/github/followers/fulan3?label=Follow&style=social"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=fulan3&style=flat-square" alt="profile views"/>
+</p>
+
+---
+
+## ✨ About Me
+
+- 🔭 I’m currently working on: **[My Awesome Project](https://github.com/fulan3/Wordlist)**
+- 🌱 I’m currently learning: **AI, Web Development, and Cloud Computing**
+- 💬 Ask me about: **Anything!**
+- 📫 How to reach me: **youremail@example.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love coffee and late-night coding!**
+
+---
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,linux,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fulan3&show_icons=true&theme=radical" width="410">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fulan3&theme=radical" width="410">
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+<details>
+  <summary>📚 My Top Projects</summary>
+  <ul>
+    <li><a href="https://github.com/fulan3/Wordlist">Wordlist</a></li>
+    <li><a href="https://github.com/fulan3/fulan3">Personal Profile Repo</a></li>
+    <!-- Tambahkan proyek lainnya di sini -->
+  </ul>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
