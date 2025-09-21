@@ -68,8 +68,7 @@
   <summary>📚 My Top Projects</summary>
   <ul>
     <li><a href="https://github.com/fulan3/Wordlist">Wordlist</a></li>
-    <li><a href="https://github.com/fulan3/fulan3">Personal Profile Repo</a></li>
-    <!-- Tambahkan proyek lainnya di sini -->
+    <li>loby
   </ul>
 </details>
 
